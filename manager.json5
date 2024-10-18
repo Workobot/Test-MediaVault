@@ -1,9 +1,0 @@
-{
-  globalVars: {
-    logoCliente: "{origenAssets}/branding/LogoCliente_01.png",
-    origenAssets: {
-      origen: "github", //"github", 
-      repo: "archibot-hub", // "archibot-hub"
-    },
-  },
-}
